@@ -1,6 +1,6 @@
  // ==UserScript==
 
-// @name         Discord Token & Quest Enroller (@mutebusta - Toolbar Layout)
+// @name         Discord Token & Quest Enroller (@DEATH - Toolbar Layout)
 
 // @namespace    http://tampermonkey.net/
 
@@ -8,7 +8,7 @@
 
 // @description  Get Discord token + enroll or claim quests easily — UI panel by mutebusta
 
-// @author       mutebusta
+// @author       DEAD
 
 // @match        https://discord.com/*
 
